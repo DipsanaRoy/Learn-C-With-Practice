@@ -69,7 +69,8 @@ Perfect for **self-study, deep understanding, quick revision**, or **building a 
 ├─ 📁 [Project_C001](https://github.com/DipsanaRoy/learn-c-with-practice/tree/main/Project_001)
 ├─ 📁 [Project_C002](https://github.com/DipsanaRoy/learn-c-with-practice/tree/main/Project_002)
 ├─ 📄 [READ_ME_TO_GO_BEYOND_THIS_COURSE.md](https://github.com/DipsanaRoy/learn-c-with-practice/tree/main/READ_ME_TO_GO_BEYOND_THIS_COURSE.md)
-├─ 📓 [C_COMPLETE_NOTES.pdf](https://github.com/DipsanaRoy/learn-c-with-practice/blob/main/C_COMPLETE_NOTES.pdf)
+├─ 📓 [CN001_C_COMPLETE_NOTES.pdf](https://github.com/DipsanaRoy/learn-c-with-practice/blob/main/CN001_C_COMPLETE_NOTES.pdf)
+├─ 📓 [CN002_C_COMPLETE_NOTES.md](https://github.com/DipsanaRoy/learn-c-with-practice/blob/main/CN002_C_COMPLETE_NOTES.md)
 └─ 📘 [THE_ULTIMATE_C_HANDBOOK.pdf](https://github.com/DipsanaRoy/learn-c-with-practice/blob/main/THE_ULTIMATE_C_HANDBOOK.pdf)
 
 ---
