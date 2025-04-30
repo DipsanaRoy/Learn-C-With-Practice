@@ -1,0 +1,14 @@
+
+---
+
+# Kindly Read the Notes Before Proceeding with the Example Programs for Better Understanding
+
+## Useful Links:
+
+- [Chapter 7 Notes](https://github.com/DipsanaRoy/learn-c-with-practice/main/tree/C007_Arrays/CHAPTER_7.pdf)
+- [Chapter 7 Array Notes](https://github.com/DipsanaRoy/learn-c-with-practice/main/tree/C007_Arrays/C7_ARR_NOTES.md)
+- [Chapter 7 Size Notes](https://github.com/DipsanaRoy/learn-c-with-practice/main/tree/C007_Arrays/C7_SIZE_NOTES.md)
+
+*Happy Learning!*
+
+---
